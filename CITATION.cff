@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ResearchProject
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Krishang Gupta '
+    email: krishanggupta.kg@gmail.com
+repository-code: 'https://github.com/krishanggupta/ResearchProject'
+url: 'https://github.com/'
