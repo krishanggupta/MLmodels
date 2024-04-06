@@ -8,7 +8,7 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: 'Krishang Gupta '
+  - given-names: 'Gupta Krishang '
     email: krishanggupta.kg@gmail.com
 repository-code: 'https://github.com/krishanggupta/ResearchProject'
 url: 'https://github.com/'
